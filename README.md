@@ -1,4 +1,5 @@
 # wechat_analy
+=======
 基于itchat库分析个人微信好友信息，output目录是程序生成图片样例。
 
 # 运行方法
@@ -10,3 +11,5 @@
 2. 运行
 
     python main.py
+
+
